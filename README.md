@@ -61,3 +61,17 @@ This dashboard enables users to analyze:
 - Data Visualization
 - Dashboard Design
 - Business Analytics
+
+  ## What I learned
+
+During this project I learned how to:
+
+- Build an interactive Power BI dashboard
+- Create DAX measures and KPIs
+- Transform data using Power Query
+- Design a user-friendly dashboard layout
+- Create relationships between tables
+- Build an effective data model
+- Use slicers, bookmarks and drill-through navigation
+- Present business insights through data visualization
+- Publish a project on GitHub with professional documentation
