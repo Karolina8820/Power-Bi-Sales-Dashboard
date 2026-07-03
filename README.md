@@ -4,7 +4,7 @@ Interactive Power BI dashboard created to analyze sales performance between **20
 
 ## Dashboard Preview
 
-
+![Dashboard](screenshots/dashboard.png)
 
 
 
@@ -48,9 +48,9 @@ This dashboard enables users to analyze:
 
 ## Files
 
-📁 pbix/Sales_Dashboard.pbix
+- sales dashboard.pbix
 
-📁 screenshots/dashboard.png
+- dashboard.png
 
 
 
