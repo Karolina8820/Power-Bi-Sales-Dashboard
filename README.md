@@ -5,6 +5,13 @@ Interactive Power BI dashboard created to analyze sales performance between **20
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
+### Szczegóły sprzedaży
+
+![Szczegóły sprzedaży](szczegoly-sprzedazy.png)
+
+### Mapa
+
+![Mapa](mapka.png)
 
 
 
